@@ -1,0 +1,5 @@
+Đây là file test mới để kiểm tra hệ thống theo dõi thay đổi file đã được sửa.
+
+File này sẽ được ghi nhận bởi file_change_tracker.py mà không gây ra vòng lặp vô hạn.
+
+Nội dung test: LingoBoost hoạt động tốt! 
